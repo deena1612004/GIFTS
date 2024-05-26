@@ -1,7 +1,7 @@
 <font face="Verdana, Geneva, Tahoma, sans-serif">
 <h1 align="center"><i>Hi 👋, I'm Deenadhayalan S</i></h1> 
 </font>
-<fieldset><br> <hr>
+<fieldset><br> <hr noshade>
 <h2 style="font-weight: bold;">&nbsp;&nbsp;&nbsp; About Project</h2>
 <h3>&nbsp;&nbsp;&nbsp; Introduction:</h3>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔎 hi</p>
