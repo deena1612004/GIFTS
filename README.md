@@ -1,5 +1,5 @@
 <font face="Verdana, Geneva, Tahoma, sans-serif">
-<h1 align="center"><u>Hi 👋, I'm Deenadhayalan S</u></h1> 
+<h1 align="center"><i>Hi 👋, I'm Deenadhayalan S</i></h1> 
 </font>
 <fieldset><br> 
 <h2 style="font-weight: bold;">&nbsp;&nbsp;&nbsp; About Project</h2>
