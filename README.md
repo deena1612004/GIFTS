@@ -19,11 +19,11 @@
 <h2>Skills</h2>
 <a href="https://devdocs.io/c/" target="_blank" cursor:="" pointer;=""><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50px" height="50px"></a>
 <a href="https://devdocs.io/cpp/" target="_blank" cursor:="" pointer;=""><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50px" height="50px"></a>
+<a href="https://vuejs.org/guide/introduction.html" target="_blank" cursor:="" pointer;=""><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vuejs" width="50px" height="50px"></a>
 <a href="https://legacy.reactjs.org/docs/getting-started.html" target="_blank" cursor:="" pointer;=""><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50px" height="50px"></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" cursor:="" pointer;=""><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50px" height="50px"></a>
-<a href="https://sass-lang.com/documentation/" target="_blank" cursor:="" pointer;=""><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="50px" height="50px"></a>
+<a href="https://svelte.dev/docs/introduction" target="_blank" cursor:="" pointer;=""><img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="Svelte" width="50px" height="50px"></a>
 
-<hr><br><h2>Connect with me</h2>
+<br><h2>Connect with me</h2>
 <a href="https://github.com/deena161/Text_to_Speech_Translate" target="_blank" title="github"><img src="https://svg-files.pixelied.com/ea70474d-1e22-41b9-a02a-b9f6bed76476/thumb-256px.png" alt="Github" width="50px" height="50px"></a>
 <a href="https://cdn-icons-png.flaticon.com/512/25/25231.png" target="_blank" title="linkedin"><img src="https://svg-files.pixelied.com/b1c17127-d00c-4379-a303-ad3b36dafd11/thumb-256px.png" alt="linkedin" width="50px" height="50px"></a>
 <a href="https://cdn-icons-png.flaticon.com/512/25/25231.png" target="_blank" title="twitter"><img src="https://svg-files.pixelied.com/a8e1b468-846f-4104-8dac-082c8e5eb148/thumb-256px.png" alt="twitter" width="50px" height="50px"></a>
@@ -37,4 +37,4 @@
 <a href="https://cdn-icons-png.flaticon.com/512/25/25231.png" target="_blank" title="kaggle"><img src="https://svg-files.pixelied.com/9832db67-9471-4802-a230-7ba71150d443/thumb-256px.png" alt="kaggle" width="50px" height="50px"></a>
 <a href="https://cdn-icons-png.flaticon.com/512/25/25231.png" target="_blank" title="youtube"><img src="https://www.svgrepo.com/show/303271/youtube-2-logo.svg" alt="youtube" width="50px" height="50px"></a>
 
-<br><hr>
+<br>
