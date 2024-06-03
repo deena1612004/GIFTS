@@ -4,6 +4,8 @@
 <h2>About</h2>
 <p>hnhth</p>
 <br><h2>Connect with me</h2>
-[![Watch the video](https://img.freepik.com/free-photo/fun-3d-cartoon-teenage-boy_183364-80095.jpg?size=626&amp;ext=jpg&amp;ga=GA1.1.819064273.1717426955&amp;semt=ais_user)](https://www.youtube.com/embed/QH1uyF08cOo?si=KUPBpuMAvxr7gGRR)
+[![Watch the video](https://img.youtube.com/vi/ooY-SMww3-0/maxresdefault.jpg)](https://www.youtube.com/watch?v=ooY-SMww3-0)
+*Click on the image to watch the video.*
+
 
 <br>
