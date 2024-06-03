@@ -4,7 +4,8 @@
 <h2>About</h2>
 <p>hnhth</p>
 <br><h2>Connect with me</h2>
-[Watch the video](https://www.youtube.com/watch?v=ooY-SMww3-0)
+[![Watch the video](https://img.youtube.com/vi/ooY-SMww3-0/maxresdefault.jpg)](https://www.youtube.com/watch?v=ooY-SMww3-0)
+
 
 
 
