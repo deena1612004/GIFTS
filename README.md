@@ -1,48 +1,26 @@
 <font face="Verdana, Geneva, Tahoma, sans-serif">
-<h1 align="center"><i>Hi 👋, I'm Deenadhayalan S</i></h1> 
+<h1 align="center"><i>Hi 👋, I'm uj6uyjujttuk</i></h1> 
 </font>
 <h2>About</h2>
-<p>Iam college Student</p>
-<hr><br> 
-<h2 style="font-weight: bold;">&nbsp; About Project</h2>
-<h3>&nbsp;&nbsp;&nbsp; Introduction:</h3>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔎 rhtthhtht</p>
-<h3>&nbsp;&nbsp;&nbsp; Features:</h3>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🌟 sssssdfh</p>
-<h3>&nbsp;&nbsp;&nbsp; Installation:</h3>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⬇️ rgbjrbjksuieklegjnhgedukjsf</p>
-<h3>&nbsp;&nbsp;&nbsp; Usage:</h3>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ✅ fgsjnegasjipeoiijejiosd</p>
-<h3>&nbsp;&nbsp;&nbsp; Contributing:</h3>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📌 aeojieghonjegjimkgd</p>
-<h3>&nbsp;&nbsp;&nbsp; License:</h3>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🌐 hrnkrhjiprhjil;jkl;kjlrh</p>
+<p>wsgsdgg</p>
 
 <h2>Skills</h2>
-<a href="https://devdocs.io/c/" target="_blank" cursor:="" pointer;=""><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50px" height="50px"></a>
-<a href="https://devdocs.io/cpp/" target="_blank" cursor:="" pointer;=""><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50px" height="50px"></a>
-<a href="https://docs.oracle.com/en/java/" target="_blank" cursor:="" pointer;=""><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50px" height="50px"></a>
-<a href="https://devdocs.io/javascript/" target="_blank" cursor:="" pointer;=""><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Java Script" width="50px" height="50px"></a>
-<a href="https://legacy.reactjs.org/docs/getting-started.html" target="_blank" cursor:="" pointer;=""><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50px" height="50px"></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" cursor:="" pointer;=""><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50px" height="50px"></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" cursor:="" pointer;=""><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50px" height="50px"></a>
-<a href="https://sass-lang.com/documentation/" target="_blank" cursor:="" pointer;=""><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="50px" height="50px"></a>
-<a href="https://nodejs.org/en" target="_blank" cursor:="" pointer;=""><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="node" width="50px" height="50px" title="node"></a>
-<a href="https://developer.android.com/develop" target="_blank" cursor:="" pointer;=""><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="50px" height="50px" title="android"></a>
-<a href="https://docs.flutter.dev/" target="_blank" cursor:="" pointer;=""><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="50px" height="50px" title="flutter"></a>
+<a href="https://pandas.pydata.org/docs/" target="_blank" cursor:="" pointer;=""><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="50px" height="50px" title="pandas"></a>
+<a href="https://opencv.org/" target="_blank" cursor:="" pointer;=""><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="50px" height="50px" title="opencv"></a>
+<a href="https://www.mongodb.com/lp/cloud/atlas/try4?utm_source=google&amp;utm_campaign=search_gs_pl_evergreen_atlas_general-phrase_prosp-brand_gic-null_ww-multi_ps-all_desktop_eng_lead&amp;utm_term=mongodb&amp;utm_medium=cpc_paid_search&amp;utm_ad=p&amp;utm_ad_campaign_id=11295578158&amp;adgroup=116363205048&amp;cq_cmp=11295578158&amp;gad_source=1&amp;gclid=Cj0KCQjw0_WyBhDMARIsAL1Vz8t0jyc0IF6AHPbNoVGXnhprkTbDrV4JV_4LMTXUcfUcWHvn3v9499QaAnCkEALw_wcB" target="_blank" cursor:="" pointer;=""><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50px" height="50px" title="mongodb"></a>
+<a href="https://dev.mysql.com/doc/" target="_blank" cursor:="" pointer;=""><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50px" height="50px" title="mysql"></a>
+<a href="https://docs.oracle.com/en/database/oracle/oracle-database/" target="_blank" cursor:="" pointer;=""><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="50px" height="50px" title="oracle"></a>
+<a href="https://grafana.com/docs/grafana/latest/" target="_blank" cursor:="" pointer;=""><img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="50px" height="50px" title="grafana"></a>
+<a href="https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html" target="_blank" cursor:="" pointer;=""><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="50px" height="50px" title="bash"></a>
+<a href="https://firebase.google.com/docs" target="_blank" cursor:="" pointer;=""><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="50px" height="50px" title="firebase"></a>
+<a href="https://docs.djangoproject.com/en/5.0/" target="_blank" cursor:="" pointer;=""><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="50px" height="50px" title="django"></a>
+<a href="https://learn.microsoft.com/en-us/dotnet/framework/" target="_blank" cursor:="" pointer;=""><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="50px" height="50px" title="dotnet"></a>
+<a href="https://helpx.adobe.com/in/photoshop/user-guide.html" target="_blank" cursor:="" pointer;=""><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="50px" height="50px" title="photoshop"></a>
+<a href="https://www.figma.com/" target="_blank" cursor:="" pointer;=""><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50px" height="50px" title="figma"></a>
+<a href="https://www.mathworks.com/products/matlab.html" target="_blank" cursor:="" pointer;=""><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="50px" height="50px" title="matlab"></a>
+<a href="https://www.postman.com/" target="_blank" cursor:="" pointer;=""><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50px" height="50px" title="postman"></a>
+<a href="https://unity.com/" target="_blank" cursor:="" pointer;=""><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="50px" height="50px" title="unity"></a>
+<a href="https://www.linux.org/" target="_blank" cursor:="" pointer;=""><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50px" height="50px" title="linux"></a>
+<a href="https://www.git-scm.com/" target="_blank" cursor:="" pointer;=""><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50px" height="50px" title="git"></a>
+<a href="https://www.arduino.cc/" target="_blank" cursor:="" pointer;=""><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="50px" height="50px" title="arduino"></a>
 
-<br><h2>Connect with me</h2>
-<a href="https://github.com/deena1612004/GIFTS" target="_blank" title="github"><img src="https://svg-files.pixelied.com/ea70474d-1e22-41b9-a02a-b9f6bed76476/thumb-256px.png" alt="Github" width="50px" height="50px"></a>
-<a href="https://github.com/deena1612004/GIFTS" target="_blank" title="linkedin"><img src="https://svg-files.pixelied.com/b1c17127-d00c-4379-a303-ad3b36dafd11/thumb-256px.png" alt="linkedin" width="50px" height="50px"></a>
-<a href="https://github.com/deena1612004/GIFTS" target="_blank" title="twitter"><img src="https://svg-files.pixelied.com/a8e1b468-846f-4104-8dac-082c8e5eb148/thumb-256px.png" alt="twitter" width="50px" height="50px"></a>
-<a href="https://github.com/deena1612004/GIFTS" target="_blank" title="hackerrank"><img src="https://svg-files.pixelied.com/819d418a-8f63-49d6-8f43-8eee7d52ecbe/thumb-256px.png" alt="hackerrank" width="50px" height="50px"></a>
-<a href="https://github.com/deena1612004/GIFTS" target="_blank" title="hackerearth"><img src="https://svg-files.pixelied.com/3c3b338b-aa94-4dda-b6f1-cc4562430b8d/thumb-256px.png" alt="hackerearth" width="50px" height="50px"></a>
-<a href="https://github.com/deena1612004/GIFTS" target="_blank" title="leetcode"><img src="https://www.svgrepo.com/show/330828/leetcode.svg" alt="leetcode" width="50px" height="50px"></a>
-<a href="https://github.com/deena1612004/GIFTS" target="_blank" title="codechef"><img src="https://svg-files.pixelied.com/0c007bf4-6427-4426-af7b-5922af9cbff7/thumb-256px.png" alt="codechef" width="50px" height="50px"></a>
-<a href="https://github.com/deena1612004/GIFTS" target="_blank" title="geeksforgeeks"><img src="https://svg-files.pixelied.com/f1e69a82-add1-4a66-b441-9ddd9730d971/thumb-256px.png" alt="geeksforgeeks" width="50px" height="50px"></a>
-<a href="https://github.com/deena1612004/GIFTS" target="_blank" title="stackoverflow"><img src="https://svg-files.pixelied.com/4b142e98-9485-4eb0-821b-233dec506ffa/thumb-256px.png" alt="stackoverflow" width="50px" height="50px"></a>
-<a href="https://github.com/deena1612004/GIFTS" target="_blank" title="codepen"><img src="https://svg-files.pixelied.com/711a9dcb-14bc-412b-9732-ad1a60e8c51b/thumb-256px.png" alt="codepen" width="50px" height="50px"></a>
-<a href="https://github.com/deena1612004/GIFTS" target="_blank" title="kaggle"><img src="https://svg-files.pixelied.com/9832db67-9471-4802-a230-7ba71150d443/thumb-256px.png" alt="kaggle" width="50px" height="50px"></a>
-<a href="https://github.com/deena1612004/GIFTS" target="_blank" title="youtube"><img src="https://www.svgrepo.com/show/303271/youtube-2-logo.svg" alt="youtube" width="50px" height="50px"></a>
-
-<br>
